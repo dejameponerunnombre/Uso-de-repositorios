@@ -11,6 +11,6 @@ int main()
     printf("ingrese la nota 3");
     scanf("%d"&n3);
     r=(n1+n2+n3)/3;
-
+    printf("El promedio es: %f", r);
     return 0;
 }
