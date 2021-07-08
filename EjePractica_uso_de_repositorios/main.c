@@ -3,6 +3,7 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    float n1,n2,n3,r;
+
     return 0;
 }
