@@ -10,5 +10,6 @@ int main()
     scanf("%d"&n2);
     printf("ingrese la nota 3");
     scanf("%d"&n3);
+    r=n1+n2+n3;
     return 0;
 }
